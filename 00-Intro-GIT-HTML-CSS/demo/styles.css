@@ -1,0 +1,15 @@
+li {
+  color: chartreuse;
+}
+
+div {
+  background-color: darkslategrey;
+}
+/* las clases "class" sirven para identificar a varios elementos dentro de un mismo tipo */
+.Prueba {
+  color: blue;
+}
+/* los ID son únicos para cada elemento, no se puede agrupar mas de un elemento en un mismo ID */
+#DNI {
+  color: chocolate;
+}
